@@ -8,6 +8,6 @@ Running the script run_analysis.R will complete the following:
 3) Merge the datasets
 4) Extract only the mean() and Standard Deviation() measures
 5) Converts Subject and Activity Labels into Factor Variables
-6) Creates a Tidy Dataset
+6) Creates independent tidy data set with the average of each variable for each activity and each subject
 
 Be sure to modify the scipt to match the appropriate file path on your local computer.
